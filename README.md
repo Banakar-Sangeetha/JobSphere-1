@@ -1,4 +1,4 @@
-# Job Portal
+# JobSphere
 
 ## Introduction
 The **Job Portal** is a web application that connects job seekers with potential employers. It allows companies to post job listings, and applicants can apply for jobs through the platform. This project is built using Node.js and Express for the backend.
