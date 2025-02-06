@@ -33,8 +33,8 @@ The **Job Portal** is a web application that connects job seekers with potential
    MONGO_URI=your_mongodb_connection_string
    SECRET_KEY=your_jwt_secret_key
    CLOUD_NAME=YOUR_cloud_name(cloudniary)
-   API_key:
-   API secret:
+   API_key=
+   API_secret=
    ```
 5. Start the server:
    ```sh
